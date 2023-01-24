@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+# My Github Activity : 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SG-Akshay10&theme=highcontrast)](https://git.io/streak-stats)
+
+# Top Programming language used : 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SG-Akshay10&layout=compact&theme=radical)](https://github.com/SG-Akshay10/github-readme-stats)
