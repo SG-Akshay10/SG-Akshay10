@@ -1,3 +1,5 @@
+![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/83088512/214288926-0e8b8a8a-51cb-4435-97d0-f9a825386c3f.png)
+
 <!-- ### Hi there 👋
 
 **SG-Akshay10/SG-Akshay10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
