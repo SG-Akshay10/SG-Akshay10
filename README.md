@@ -16,33 +16,43 @@
 
 
 * Python
-* C/C++ and Java
+* C and Java
 * Machine Learning Fundamentals
 * HTML,CSS and JavaScript
 * Angular
 
 ![Technical_Skills](https://user-images.githubusercontent.com/83088512/214294868-7216a643-e4a5-4fb6-9611-bbffe363446e.png)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<!-- ### Hi there 👋
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-**SG-Akshay10/SG-Akshay10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-# My Github Activity : 
+![Github_Stats](https://user-images.githubusercontent.com/83088512/214297258-c422dad3-53fa-4718-bd58-f67bb5e8504e.png)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=SG-Akshay10&theme=highcontrast)](https://git.io/streak-stats)
 
-# Top Programming language used : 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SG-Akshay10&layout=compact&theme=radical)](https://github.com/SG-Akshay10/github-readme-stats)
+
+![Socials](https://user-images.githubusercontent.com/83088512/214298255-edf97676-06ff-4400-8062-a54aad94ad4b.png)
+
+<a href="mailto:akshay10sg@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://instagram.com/i_am_akshay_sg?igshid=ZDdkNTZiNTM=">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a href="https://twitter.com/i_am_akshay_sg">!![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://github.com/SG-Akshay10">!![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
