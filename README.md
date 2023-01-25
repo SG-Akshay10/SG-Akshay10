@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi there, I'm Akshay👋</h1>
-<h2 align="center">I'm a Machine Learning and Data Science Enthusiast, Web Devweloper and Designer</h2>
+<h2 align="center">I'm a Machine Learning and Data Science Enthusiast, Web Developer and Designer</h2>
 
 ![I'm_currently_working_on](https://user-images.githubusercontent.com/83088512/214294696-17bc5432-8e0f-4e4f-8a80-b95aec06f20b.png)
 
