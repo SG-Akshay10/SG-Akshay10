@@ -15,9 +15,8 @@
   
 ![3](https://github.com/SG-Akshay10/SG-Akshay10/assets/83088512/f298b0fb-7298-44fd-9f83-ec6af50f3595)
 
-* Intelligent Movie Recommendation system
-* Univeristy Chatbot 
-* Faculty Leave application System
+* AI-powered Interview Bot
+* Ai-powered travel planner 
 
 
 ![Technical_Skills](https://user-images.githubusercontent.com/83088512/214294868-7216a643-e4a5-4fb6-9611-bbffe363446e.png)
