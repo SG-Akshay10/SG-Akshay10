@@ -6,7 +6,7 @@
 
 ![2](https://github.com/SG-Akshay10/SG-Akshay10/assets/83088512/72534ffb-86e8-4402-8b6a-b7183cd8cdb0)
 
-* **[DocQA](https://github.com/SG-Akshay10/Document-QA.git)** - Document Question Answering System
+* **[docQA](https://github.com/SG-Akshay10/docQA.git)** - Document Question Answering System
 * **[SharpEye](https://github.com/SG-Akshay10/ANPR.git)** - Automatic Number Plate Recognition System
 * **[TweetGuardian](https://github.com/SG-Akshay10/Twitter-Abuse-Detection.git)** - Twitter Tweet Classifier
 * **[CourseCompass](https://github.com/SG-Akshay10/course-recommendation.git)** - Course Recommendation System
