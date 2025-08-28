@@ -1,52 +1,129 @@
-![1](https://github.com/SG-Akshay10/SG-Akshay10/assets/83088512/d9fd8195-c837-4a32-b29d-b3824fb9d3c2)
+<div align="center">
+
+# Hi there, I'm Akshay SG
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Data+Science+Enthusiast;Software+Developer" alt="Typing SVG" />
+
+</div>
+
+## About Me
+
+I'm a Software Engineer with a passion for **AI/ML** and **Data Science**. I love building intelligent systems that solve real-world problems. My expertise spans across machine learning, deep learning, natural language processing, and full-stack development.
+
+- Currently working on AI-powered solutions and data-driven applications
+- Always learning and exploring new technologies in AI/ML
+- Building scalable AI/ML applications
+- Passionate about creating impactful projects that make a difference
+- **Actively seeking to contribute to open-source AI projects** and collaborate with the community
+- Open to collaboration on innovative AI/ML projects and research
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Data Visualization & Analytics
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FFA500?style=for-the-badge&logo=gradio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![DeepEval](https://img.shields.io/badge/DeepEval-4B0082?style=for-the-badge&logo=python&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorZero](https://img.shields.io/badge/TensorZero-FF4B4B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 
 
-<h1 align="center">Hi there, I'm Akshay👋</h1>
-<h2 align="center">I'm a Machine Learning and Data Science Enthusiast, Web Developer and Designer</h2>
+### Web Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-![2](https://github.com/SG-Akshay10/SG-Akshay10/assets/83088512/72534ffb-86e8-4402-8b6a-b7183cd8cdb0)
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PGVector](https://img.shields.io/badge/PGVector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-* **[docQA](https://github.com/SG-Akshay10/docQA.git)** - Document Question Answering System
-* **[SharpEye](https://github.com/SG-Akshay10/ANPR.git)** - Automatic Number Plate Recognition System
-* **[TweetGuardian](https://github.com/SG-Akshay10/Twitter-Abuse-Detection.git)** - Twitter Tweet Classifier
-* **[CourseCompass](https://github.com/SG-Akshay10/course-recommendation.git)** - Course Recommendation System
-* **[StopSuicide](https://github.com/SG-Akshay10/Suicide-Data-Analysis.git)** - Data Analysis on Suicide
+## Featured Projects
 
+### [docQA](https://github.com/SG-Akshay10/docQA.git) : **Document Question Answering System**
+- AI-powered system for intelligent document querying
+- Built using advanced NLP techniques and transformer models
+- Enables users to ask questions about documents and get accurate answers
+
+### [SharpEye](https://github.com/SG-Akshay10/ANPR.git) : **Automatic Number Plate Recognition System**
+- Computer vision application for real-time license plate detection and recognition
+- Implemented using OpenCV and deep learning models
+- High accuracy detection and OCR capabilities
+
+### [TweetGuardian](https://github.com/SG-Akshay10/Twitter-Abuse-Detection.git) : **Twitter Tweet Classifier**
+- Machine learning model for detecting abusive content on social media
+- Natural language processing for text classification
+- Helps create safer online communities
+
+### [CourseCompass](https://github.com/SG-Akshay10/course-recommendation.git) : **Course Recommendation System**
+- Intelligent recommendation engine for educational content
+- Uses collaborative filtering and content-based approaches
+- Personalized learning path suggestions
+
+### [StopSuicide](https://github.com/SG-Akshay10/Suicide-Data-Analysis.git) : **Suicide Data Analysis**
+- Comprehensive data analysis project addressing mental health awareness
+- Statistical analysis and visualization of critical social data
+- Insights for prevention and awareness initiatives
+
+## What I'm Working On
+
+### AI-Powered Interview Bot : **Smart Interview Assistant**
+- Conversational AI for interview preparation and practice
+- Natural language understanding and response generation
+- Personalized feedback and improvement suggestions
+
+### AI-Powered Travel Planner : **Intelligent Travel Assistant**
+- ML-driven travel recommendation and planning system
+- Personalized itinerary generation based on preferences
+- Real-time optimization and suggestions
+ 
+## Areas of Interest
+
+- **Machine Learning & Deep Learning**
+- **Gen AI**
+- **Natural Language Processing**
+- **Computer Vision**
+- **Data Science & Analytics**
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SG-Akshay10&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+## Let's Connect!
+
+<div align="center">
   
-![3](https://github.com/SG-Akshay10/SG-Akshay10/assets/83088512/f298b0fb-7298-44fd-9f83-ec6af50f3595)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-s-g-a81516239/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshay10sg@gmail.com)
 
-* AI-powered Interview Bot
-* Ai-powered travel planner 
-
-
-![Technical_Skills](https://user-images.githubusercontent.com/83088512/214294868-7216a643-e4a5-4fb6-9611-bbffe363446e.png)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-
-
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-![Github_Stats](https://user-images.githubusercontent.com/83088512/214297258-c422dad3-53fa-4718-bd58-f67bb5e8504e.png)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SG-Akshay10&layout=compact&theme=radical)](https://github.com/SG-Akshay10/github-readme-stats)
-
-![Socials](https://user-images.githubusercontent.com/83088512/214298255-edf97676-06ff-4400-8062-a54aad94ad4b.png)
-
-<a href="mailto:akshay10sg@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://instagram.com/i_am_akshay_sg?igshid=ZDdkNTZiNTM=">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://github.com/SG-Akshay10">!![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+</div>
