@@ -20,7 +20,7 @@ I'm a Software Engineer with a passion for **AI/ML** and **Data Science**. I lov
 
 ## Featured Projects
 
-### [Synth-FM](https://github.com/SG-Akshay10/synth-fm.git) : **AI Audio Orchestration Engine**
+### [Synth-FM](https://github.com/SG-Akshay10/synth-fm.git) : **AI Podcast Generation**
 - Transform static text, URLs, or documents into engaging multi-speaker podcasts and narrations
 - Leverages advanced LLMs for script generation and high-fidelity TTS for natural audio
 - Features a minimalist interface for seamless content-to-audio conversion
