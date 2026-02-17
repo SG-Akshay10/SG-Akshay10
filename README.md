@@ -17,6 +17,54 @@ I'm a Software Engineer with a passion for **AI/ML** and **Data Science**. I lov
 - **Actively seeking to contribute to open-source AI projects** and collaborate with the community
 - Open to collaboration on innovative AI/ML projects and research
 
+
+## Featured Projects
+
+### [Synth-FM](https://github.com/SG-Akshay10/synth-fm.git) : **AI Audio Orchestration Engine**
+- Transform static text, URLs, or documents into engaging multi-speaker podcasts and narrations
+- Leverages advanced LLMs for script generation and high-fidelity TTS for natural audio
+- Features a minimalist interface for seamless content-to-audio conversion
+
+### [SafeScroll](https://github.com/SG-Akshay10/SafeScroll.git) : **Real-time Content Moderator**
+- A Chrome extension designed for real-time NSFW content detection and filtering
+- Utilizes lightweight computer vision models for on-device inference to ensure privacy
+- Enhances digital well-being by providing a safer browsing experience
+
+### [docQA](https://github.com/SG-Akshay10/docQA.git) : **Document Question Answering System**
+- AI-powered system for intelligent document querying
+- Built using advanced NLP techniques and transformer models
+- Enables users to ask questions about documents and get accurate answers
+
+### [SharpEye](https://github.com/SG-Akshay10/ANPR.git) : **Automatic Number Plate Recognition System**
+- Computer vision application for real-time license plate detection and recognition
+- Implemented using OpenCV and deep learning models
+- High accuracy detection and OCR capabilities
+
+### [TweetGuardian](https://github.com/SG-Akshay10/Twitter-Abuse-Detection.git) : **Twitter Tweet Classifier**
+- Machine learning model for detecting abusive content on social media
+- Natural language processing for text classification
+- Helps create safer online communities
+
+## What I'm Working On
+
+### AI-Powered Interview Bot : **Smart Interview Assistant**
+- Conversational AI for interview preparation and practice
+- Natural language understanding and response generation
+- Personalized feedback and improvement suggestions
+
+### AI-Powered Travel Planner : **Intelligent Travel Assistant**
+- ML-driven travel recommendation and planning system
+- Personalized itinerary generation based on preferences
+- Real-time optimization and suggestions
+ 
+## Areas of Interest
+
+- **Machine Learning & Deep Learning**
+- **Gen AI**
+- **Natural Language Processing**
+- **Computer Vision**
+- **Data Science & Analytics**
+
 ## Tech Stack
 
 ### Languages
@@ -65,59 +113,6 @@ I'm a Software Engineer with a passion for **AI/ML** and **Data Science**. I lov
 ![PGVector](https://img.shields.io/badge/PGVector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-## Featured Projects
-
-### [docQA](https://github.com/SG-Akshay10/docQA.git) : **Document Question Answering System**
-- AI-powered system for intelligent document querying
-- Built using advanced NLP techniques and transformer models
-- Enables users to ask questions about documents and get accurate answers
-
-### [SharpEye](https://github.com/SG-Akshay10/ANPR.git) : **Automatic Number Plate Recognition System**
-- Computer vision application for real-time license plate detection and recognition
-- Implemented using OpenCV and deep learning models
-- High accuracy detection and OCR capabilities
-
-### [TweetGuardian](https://github.com/SG-Akshay10/Twitter-Abuse-Detection.git) : **Twitter Tweet Classifier**
-- Machine learning model for detecting abusive content on social media
-- Natural language processing for text classification
-- Helps create safer online communities
-
-### [CourseCompass](https://github.com/SG-Akshay10/course-recommendation.git) : **Course Recommendation System**
-- Intelligent recommendation engine for educational content
-- Uses collaborative filtering and content-based approaches
-- Personalized learning path suggestions
-
-### [StopSuicide](https://github.com/SG-Akshay10/Suicide-Data-Analysis.git) : **Suicide Data Analysis**
-- Comprehensive data analysis project addressing mental health awareness
-- Statistical analysis and visualization of critical social data
-- Insights for prevention and awareness initiatives
-
-## What I'm Working On
-
-### AI-Powered Interview Bot : **Smart Interview Assistant**
-- Conversational AI for interview preparation and practice
-- Natural language understanding and response generation
-- Personalized feedback and improvement suggestions
-
-### AI-Powered Travel Planner : **Intelligent Travel Assistant**
-- ML-driven travel recommendation and planning system
-- Personalized itinerary generation based on preferences
-- Real-time optimization and suggestions
- 
-## Areas of Interest
-
-- **Machine Learning & Deep Learning**
-- **Gen AI**
-- **Natural Language Processing**
-- **Computer Vision**
-- **Data Science & Analytics**
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SG-Akshay10&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
 
 ## Let's Connect!
 
